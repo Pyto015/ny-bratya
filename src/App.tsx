@@ -10,7 +10,7 @@ const App = () => {
 			<div className='bg-[#191C2F] w-full h-[100vh] flex justify-around items-center flex-col'>
 				<div className='flex'>
 					<h1 className='text-[#FFB23F] font-lexend font-bold text-[32px] text-center'>
-						Тётя Маша, С Новым 2023 годом !!!
+						Дядя Артём, С Новым 2023 годом !!!
 					</h1>
 				</div>
 				<img
