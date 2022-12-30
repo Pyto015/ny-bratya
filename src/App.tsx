@@ -10,7 +10,7 @@ const App = () => {
 			<div className='bg-[#191C2F] w-full h-[100vh] flex justify-around items-center flex-col'>
 				<div className='flex'>
 					<h1 className='text-[#FFB23F] font-lexend font-bold text-[32px] text-center'>
-						Тётя Маша, С Новым 2023 годом !!!
+						Бабушки, С Новым 2023 годом !!!
 					</h1>
 				</div>
 				<img
@@ -22,7 +22,7 @@ const App = () => {
 				/>
 				<p className='font-lexend text-white w-[345px] h-[260px] text-lg text-center hover:transition-all hover:text-[#ffb23f] transition-all'>
 					Этот год был действительно тяжёлым и не простым, но в новом году я
-					хочу что бы у тебя сбывались все самые заветные мечты, всё было хорошо
+					хочу что бы у вас сбывались все самые заветные мечты, всё было хорошо
 					и всегда было хорошее настроение и успехов абсолютно везде. С
 					наступившим 2023 годом !!!
 				</p>
